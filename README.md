@@ -16,7 +16,20 @@
 
 ## Hugo Theme and Template
 
+This website is powered by the Wowchemy Research Group `hugo` theme.
+
+Work originated from the Wowchem Research Group template.
+
 ## Development Requirements
+
+To develop this site, you will need to have installed:
+
+- `hugo`
+- `go`
+
+To install these with `homebrew`, run:
+
+- `brew install hugo golang`
 
 ## Deployment
 
