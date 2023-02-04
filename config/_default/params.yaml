@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'Research Laboratory'
+    org_name: 'Software and Systems Laboratory'
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Software and Systems Laboratory. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -113,4 +113,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: ieee
