@@ -27,12 +27,12 @@ repos:
     rev: 5.11.4
     hooks:
       - id: isort
-  - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.16  # Use the ref you want to point at
-    hooks:
-    - id: mdformat
-      additional_dependencies:
-      - mdformat-black
-      - mdformat-gfm
-      - mdformat-tables
-      - mdformat-toc
+  # - repo: https://github.com/executablebooks/mdformat
+  #   rev: 0.7.16  # Use the ref you want to point at
+  #   hooks:
+  #   - id: mdformat
+  #     additional_dependencies:
+  #     - mdformat-black
+  #     - mdformat-gfm
+  #     - mdformat-tables
+  #     - mdformat-toc
