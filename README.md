@@ -1,48 +1,62 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# SSL Hugo Website
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+> The SSL website, now powered by Hugo!
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## Table of Contents
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+- [SSL Hugo Website](#ssl-hugo-website)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Development Requirements](#development-requirements)
+  - [Deployment](#deployment)
+  - [Maintenance](#maintenance)
+    - [How to Update the Home Page](#how-to-update-the-home-page)
+    - [How to Add People](#how-to-add-people)
+    - [How to Add Publications](#how-to-add-publications)
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+## About
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+This repository contains the [Software and Systems Laboratory (SSL) website](https://ssl.cs.luc.edu)
+source code.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+This website is powered by the [`hugo` static site generator](https://gohugo.io) and the [Wowchemy Research Group theme](https://github.com/wowchemy/starter-hugo-research-group).
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Development Requirements
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+To develop this site, you will need to have installed:
 
-## We ask you, humbly, to support this open source movement
+- `hugo`
+- `golang`
+- `Python 3.10`
+- [`academic`](https://pypi.org/project/academic/) Python utility
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+To install these with `homebrew`, run:
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+```shell
+brew install hugo golang python@3.10
+brew link python@3.10
+python3.10 -m pip install --upgrade pip
+python3.10 -m pip install academic
+```
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+## Deployment
 
-## Demo credits
+This site is deployed once per commit via GitHub Actions.
 
-Please replace the demo images with your own.
+## Maintenance
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+> How to be a good maintainer
+
+### How to Update the Home Page
+
+1. Work within the [`./content/home`](content/home/)
+2. Create new markdown (`.md`) files for each section of the document OR edit an existing section's `.md` file.
+
+### How to Add People
+
+1. Work within the [`./content/people`](content/people)
+2. Copy an existing person's directory and change the name to the name of the new individual to add
+3. Edit the new person's `_index.md` file and add the appropriate details
+4. Replace the new person's `avatar.jpg` file with a headshot of the individual.
+
+### How to Add Publications

@@ -16,12 +16,16 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
+    - Faculty Leadership
+    - Faculty Advisors
+    - Graduate Students
+    - Undergraduate Students
+    - Louisiana State University Collaborators
+    - Purdue University Collaborators
+    - University of Buenos Aires Collaborator
+    - Alumna
+    - Alumnus
+
 design:
   show_interests: false
   show_role: true
