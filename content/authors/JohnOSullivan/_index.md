@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Faculty Advisors
+role: Collaborator
 
 # Organizations/Affiliations
 organizations:
@@ -27,5 +27,5 @@ social:
 #    link: https://twitter.com/GeorgeCushen
 
 user_groups:
-  - Faculty Advisors
+  - Collaborators
 ---

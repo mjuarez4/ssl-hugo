@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Faculty Advisors
+role: Associate Professor, Director for Data Science at Loyola University Chicago
 
 # Organizations/Affiliations
 organizations:
@@ -28,5 +28,5 @@ social:
 #    link: https://twitter.com/GeorgeCushen
 
 user_groups:
-  - Faculty Advisors
+  - Collaborators
 ---

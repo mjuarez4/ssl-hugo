@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Scientist
+role: Assistant Scientist at Argonne National Laboratory
 
 # Organizations/Affiliations
 organizations:
@@ -30,5 +30,5 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Argonne National Laboratory Collaborators
+  - Collaborators
 ---

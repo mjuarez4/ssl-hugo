@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Computer Scientist
+role: Computer Scientist at Argonne National Laboratory
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,5 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Argonne National Laboratory Collaborators
+  - Collaborators
 ---

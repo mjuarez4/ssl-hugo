@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Faculty Advisors
+role: Associate Professor of Computer Science at Loyola University Chicago
 
 # Organizations/Affiliations
 organizations:
@@ -33,5 +33,5 @@ social:
     link: https://chantin.cs.luc.edu
 
 user_groups:
-  - Faculty Advisors
+  - Collaborators
 ---
