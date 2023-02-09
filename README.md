@@ -1,8 +1,8 @@
 # SSL Hugo Website
 
-[![github pages](https://github.com/LoyolaChicagoCS/ssl-hugo/actions/workflows/deploy.yml/badge.svg)](https://github.com/LoyolaChicagoCS/ssl-hugo/actions/workflows/deploy.yml)
-
 > The SSL website, now powered by Hugo!
+
+[![github pages](https://github.com/LoyolaChicagoCS/ssl-hugo/actions/workflows/deploy.yml/badge.svg)](https://github.com/LoyolaChicagoCS/ssl-hugo/actions/workflows/deploy.yml)
 
 ## Table of Contents
 
