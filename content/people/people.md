@@ -18,12 +18,10 @@ content:
   user_groups:
     - Faculty Leadership
     - Faculty Advisors
+    - Ph.D Students
     - Graduate Students
     - Undergraduate Students
     - Collaborators
-    - Argonne National Laboratory Collaborators
-    - Louisiana State University Collaborators
-    - University of Alabama Collaborators
     - Alumna
     - Alumnus
 

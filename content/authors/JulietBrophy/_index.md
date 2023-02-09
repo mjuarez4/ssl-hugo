@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor of Anthropology
+role: Assistant Professor of Anthropology at Louisiana State University
 
 # Organizations/Affiliations
 organizations:
@@ -28,5 +28,5 @@ social:
 #    link: https://twitter.com/GeorgeCushen
 
 user_groups:
-  - Louisiana State University Collaborators
+  - Collaborators
 ---

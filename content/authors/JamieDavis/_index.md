@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor at Purdue University
+role: Assistant Professor of Electrical and Computer Engineering at Purdue University
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,17 @@ organizations:
     url: 'https://purdue.edu'
 
 social:
-  # - icon: github
-#    icon_pack: fab
-#    link:  https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link:  https://github.com/davisjam
 
 #  - icon: linkedin
 #   icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
+
+  - icon: envelope
+    icon_pack: fas
+    link: https://davisjam.github.io/
 
 user_groups:
   - Collaborators

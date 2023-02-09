@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Computer Science
+role: Professor of Computer Science at the University of Alabama
 
 # Organizations/Affiliations
 organizations:
-  - name: Purdue University
-    url: 'https://purdue.edu'
+  - name: University of Alabama
+    url: 'https://www.ua.edu/'
 
 social:
   # - icon: github
@@ -27,5 +27,5 @@ social:
 #    link: https://twitter.com/GeorgeCushen
 
 user_groups:
-  - University of Alabama Collaborators
+  - Collaborators
 ---

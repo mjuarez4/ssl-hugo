@@ -31,6 +31,6 @@ social:
     link: https://wenxin-jiang.github.io/
 
 user_groups:
-  - Collaborators
+  - Ph.D Students
 
 ---
