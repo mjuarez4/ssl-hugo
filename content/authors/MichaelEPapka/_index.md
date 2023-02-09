@@ -1,21 +1,22 @@
 ---
 # Display name
-title: Trey Roche
+title: Michael E. Papka
 
 # Username (this should match the folder name)
 authors:
-  - TreyRoche
+  - MichaelEPapka
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Software Developer
+role: Deputy Associate Laboratory Director/Director of ALCF
 
 # Organizations/Affiliations
 organizations:
-  - name: Loyola University Chicago
-    url: 'https://luc.edu/'
+  - name: Argonne National Laboratory
+    url: 'https://www.anl.gov/'
+
 social:
   # - icon: github
 #    icon_pack: fab
@@ -30,6 +31,5 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Alumnus
-
+  - Argonne National Laboratory Collaborators
 ---

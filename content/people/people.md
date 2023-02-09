@@ -20,9 +20,10 @@ content:
     - Faculty Advisors
     - Graduate Students
     - Undergraduate Students
+    - Collaborators
+    - Argonne National Laboratory Collaborators
     - Louisiana State University Collaborators
-    - Purdue University Collaborators
-    - University of Buenos Aires Collaborator
+    - University of Alabama Collaborators
     - Alumna
     - Alumnus
 

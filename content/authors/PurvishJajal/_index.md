@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Wenxin Jiang
+title: Purvish Jajal
 
 # Username (this should match the folder name)
 authors:
-  - WenxinJiang
+  - PurvishJajal
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,17 +18,17 @@ organizations:
     url: 'https://purdue.edu'
 
 social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Wenxin-Jiang
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/Wenxin-Jiang
 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/wenxin-jiang/
+#   - icon: linkedin
+#     icon_pack: fab
+#     link: https://www.linkedin.com/in/wenxin-jiang/
 
-  - icon: envelope
-    icon_pack: fas
-    link: https://wenxin-jiang.github.io/
+#   - icon: envelope
+#     icon_pack: fas
+#     link: https://wenxin-jiang.github.io/
 
 user_groups:
   - Collaborators
