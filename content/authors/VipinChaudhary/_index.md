@@ -1,21 +1,22 @@
 ---
 # Display name
-title: Jamie Davis
+title: Vipin Chaudhary
 
 # Username (this should match the folder name)
 authors:
-  - JamieDavis
+  - VipinChaudhary
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor at Purdue University
+role: Department Chair of Computer and Data Sciences Department at Case Western Reserve University
 
 # Organizations/Affiliations
 organizations:
-  - name: Purdue University
-    url: 'https://purdue.edu'
+  - name: Case Western Reserve University
+    url: 'https://case.edu/'
+
 
 social:
   # - icon: github
@@ -25,6 +26,10 @@ social:
 #  - icon: linkedin
 #   icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
+
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
   - Collaborators

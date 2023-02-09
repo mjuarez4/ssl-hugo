@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Computer Engineering at the High-Energy Low-Power Systems Laboratory
+role: Professor of Computer Engineering at the High-Energy Low-Power Systems Laboratory, Purdue University
 
 # Organizations/Affiliations
 organizations:
@@ -29,5 +29,5 @@ social:
     icon_pack: fas
     link: https://yhlu.net/
 user_groups:
-  - Purdue University Collaborators
+  - Collaborators
 ---

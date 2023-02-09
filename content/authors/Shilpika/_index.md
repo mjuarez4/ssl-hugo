@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Developer
+role: Ph.D Student at UC Davis
 
 # Organizations/Affiliations
 organizations:
-  - name: Loyola University Chicago
-    url: 'https://luc.edu/'
+  - name: University of California, Davis
+    url: 'https://www.ucdavis.edu/'
 
 
 social:
@@ -32,5 +32,5 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Alumna
+  - Collaborators
 ---

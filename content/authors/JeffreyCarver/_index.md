@@ -27,5 +27,5 @@ social:
 #    link: https://twitter.com/GeorgeCushen
 
 user_groups:
-  - Purdue University Collaborators
+  - University of Alabama Collaborators
 ---
