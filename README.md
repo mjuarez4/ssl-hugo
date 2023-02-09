@@ -60,3 +60,18 @@ This site is deployed once per commit via GitHub Actions.
 4. Replace the new person's `avatar.jpg` file with a headshot of the individual.
 
 ### How to Add Publications
+
+1. Run the following command block
+
+```shell
+python3.10 -m venv env
+source env/bin/activate
+python3.10 -m pip install --upgrade pip
+python3.10 -m pip install -r requirements.txt
+```
+
+1. Then run the following command, replacing `$BIB with the path to your bib file
+
+```shell
+./addPublications.bash $BIB
+```
