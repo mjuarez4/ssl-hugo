@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Igor Ponomarenko
+title: Luke Baumel
 
 # Username (this should match the folder name)
 authors:
-  - IgorPonomarenko
+  - LukeBaumel
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,13 +19,13 @@ organizations:
 
 
 social:
-  # - icon: github
-#    icon_pack: fab
-#    link:  https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lbaumel
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/luke-baumel-b35532253/"
 
 user_groups:
   - Undergraduate Students
