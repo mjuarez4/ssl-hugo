@@ -20,7 +20,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/davisjam
+    link: https://github.com/davisjam
 
 #  - icon: linkedin
 #   icon_pack: fab

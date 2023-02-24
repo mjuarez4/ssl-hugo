@@ -20,7 +20,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/rsethi21
+    link: https://github.com/rsethi21
 
 user_groups:
   - Undergraduate Students

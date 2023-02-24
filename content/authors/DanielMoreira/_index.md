@@ -20,7 +20,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/danielmoreira
+    link: https://github.com/danielmoreira
 
   - icon: linkedin
     icon_pack: fab

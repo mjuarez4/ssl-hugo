@@ -21,7 +21,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/IgorPono
+    link: https://github.com/IgorPono
 
   - icon: linkedin
     icon_pack: fab

@@ -20,7 +20,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/mhyatt000/
+    link: https://github.com/mhyatt000/
 
   - icon: linkedin
     icon_pack: fab

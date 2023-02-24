@@ -19,7 +19,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/klaeufer
+    link: https://github.com/klaeufer
 
   - icon: linkedin
     icon_pack: fab

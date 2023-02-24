@@ -22,7 +22,7 @@ social:
 
   - icon: github
     icon_pack: fab
-    link:  https://github.com/epautsch
+    link: https://github.com/epautsch
 
   - icon: linkedin
     icon_pack: fab

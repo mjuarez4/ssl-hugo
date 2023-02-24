@@ -21,7 +21,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/calebtung
+    link: https://github.com/calebtung
 
   - icon: linkedin
     icon_pack: fab

@@ -20,7 +20,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/TPapka11
+    link: https://github.com/TPapka11
 
   - icon: linkedin
     icon_pack: fab
