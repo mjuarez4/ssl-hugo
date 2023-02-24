@@ -20,7 +20,7 @@ organizations:
 social:
   # - icon: github
 #    icon_pack: fab
-#    link:  https://github.com/gcushen
+#    link: https://github.com/gcushen
 
 #  - icon: linkedin
 #   icon_pack: fab
@@ -31,5 +31,5 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Alumnus
+  - Alumni
 ---

@@ -20,17 +20,17 @@ organizations:
 social:
   # - icon: github
 #    icon_pack: fab
-#    link:  https://github.com/gcushen
+#    link: https://github.com/gcushen
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/riley-clarkson-975632150/
 
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Alumna
+  - Alumni
 
 ---

@@ -20,7 +20,7 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/isaac-ahlgren
+    link: https://github.com/isaac-ahlgren
 
   - icon: linkedin
     icon_pack: fab

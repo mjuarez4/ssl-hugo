@@ -19,13 +19,17 @@ organizations:
 
 
 social:
-  # - icon: github
-#    icon_pack: fab
-#    link:  https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gkthiruvathukal
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/gkthiruvathukal/
+
+  - icon: envelope
+    icon_pack: fas
+    link: https://gkt.sh
 
 
 user_groups:

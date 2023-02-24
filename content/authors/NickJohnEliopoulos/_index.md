@@ -18,13 +18,13 @@ organizations:
     url: 'https://purdue.edu'
 
 social:
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/Wenxin-Jiang
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/nickjeliopoulos
 
-#   - icon: linkedin
-#     icon_pack: fab
-#     link: https://www.linkedin.com/in/wenxin-jiang/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/nick-j-eliopoulos/
 
 #   - icon: envelope
 #     icon_pack: fas

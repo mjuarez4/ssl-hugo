@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xiaoyong Jin
+title: Xiao-Yong Jin
 
 # Username (this should match the folder name)
 authors:
-  - XiaoyongJin
+  - XiaoYongJin
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,11 +19,11 @@ organizations:
 social:
   # - icon: github
 #    icon_pack: fab
-#    link:  https://github.com/gcushen
+#    link: https://github.com/gcushen
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/xiao-yong-jin-58075815/
 
 #   - icon: google-scholar
 #     icon_pack: ai

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jamie Davis
+title: James Davis
 
 # Username (this should match the folder name)
 authors:
-  - JamieDavis
+  - JamesDavis
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,11 +20,11 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/davisjam
+    link: https://github.com/davisjam
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/davisjam/
 
   - icon: envelope
     icon_pack: fas

@@ -21,7 +21,7 @@ social:
 
   - icon: github
     icon_pack: fab
-    link:  https://github.com/chantin-luc
+    link: https://github.com/chantin-luc
 
   - icon: linkedin
     icon_pack: fab
