@@ -28,6 +28,6 @@ social:
 
 
 user_groups:
-  - Alumnus
+  - Alumni
 
 ---

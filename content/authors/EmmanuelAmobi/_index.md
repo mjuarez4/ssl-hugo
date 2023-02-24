@@ -28,5 +28,5 @@ social:
 #    link: https://twitter.com/GeorgeCushen
 
 user_groups:
-  - Alumnus
+  - Alumni
 ---

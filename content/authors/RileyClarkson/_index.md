@@ -31,6 +31,6 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Alumna
+  - Alumni
 
 ---

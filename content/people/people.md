@@ -22,8 +22,7 @@ content:
     - Graduate Students
     - Undergraduate Students
     - Collaborators
-    - Alumna
-    - Alumnus
+    - Alumni
 
 design:
   show_interests: false

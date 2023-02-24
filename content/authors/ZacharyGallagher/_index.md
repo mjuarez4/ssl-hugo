@@ -31,5 +31,5 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Alumnus
+  - Alumni
 ---
