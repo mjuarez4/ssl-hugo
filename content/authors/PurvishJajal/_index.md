@@ -22,9 +22,9 @@ social:
 #     icon_pack: fab
 #     link: https://github.com/Wenxin-Jiang
 
-#   - icon: linkedin
-#     icon_pack: fab
-#     link: https://www.linkedin.com/in/wenxin-jiang/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/purvish-jajal-989774190/
 
 #   - icon: envelope
 #     icon_pack: fas

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alex Rose
+title: Alexander Rose
 
 # Username (this should match the folder name)
 authors:
-  - AlexRose
+  - AlexanderRose
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,9 +22,9 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/gcushen
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/alexander-c-rose/
 
 user_groups:
   - Alumni

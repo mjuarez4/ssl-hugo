@@ -21,9 +21,9 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/gcushen
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/trey-roche-587b7717a/
 
 #   - icon: google-scholar
 #     icon_pack: ai

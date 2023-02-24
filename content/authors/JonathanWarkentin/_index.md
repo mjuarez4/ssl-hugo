@@ -22,9 +22,9 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/gcushen
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jonathan-warkentin/
 
 user_groups:
   - Alumni
