@@ -27,5 +27,5 @@ social:
     link: https://www.linkedin.com/in/briannachou/
 
 user_groups:
-  - Graduate Students
+  - Alumni
 ---

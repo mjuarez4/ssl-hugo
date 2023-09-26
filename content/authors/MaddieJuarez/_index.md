@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Areej Imran
+title: Maddie Juarez
 
 # Username (this should match the folder name)
 authors:
-  - AreejImran
+  - MaddieJuarez
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,13 +20,12 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/areejimran
+    link: https://github.com/mjuarez4
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/areej-imran-791b4a22a
+    link: https://www.linkedin.com/in/madisonjuarez-mpj/
 
 user_groups:
-#  - Undergraduate Students
-
+  - Undergraduate Students
 ---

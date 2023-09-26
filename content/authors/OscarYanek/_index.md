@@ -27,5 +27,5 @@ social:
     link: https://www.linkedin.com/in/oscar-yanek-0a665a157/
 
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Areej Imran
+title: Juan Martinez
 
 # Username (this should match the folder name)
 authors:
-  - AreejImran
+  - JuanMartinez
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,13 +20,11 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/areejimran
+    link: https://github.com/LukeNiemeyer
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/areej-imran-791b4a22a
-
+    link: https://www.linkedin.com/in/luke-niemeyer2025/
 user_groups:
-#  - Undergraduate Students
-
+  - Undergraduate Students
 ---
