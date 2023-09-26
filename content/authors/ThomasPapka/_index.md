@@ -27,5 +27,5 @@ social:
     link: https://www.linkedin.com/in/thomas-papka-b31b89263/
 
 user_groups:
-  - Undergraduate Students
+#  - Undergraduate Students
 ---

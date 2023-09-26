@@ -27,5 +27,5 @@ social:
     link: https://www.linkedin.com/in/isaiah-bouromphongsa-ab7aa2210/
 
 user_groups:
-  - Undergraduate Students
+#  - Undergraduate Students
 ---

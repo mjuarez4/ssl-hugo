@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Areej Imran
+title: Karolina Ryzka
 
 # Username (this should match the folder name)
 authors:
-  - AreejImran
+  - KarolinaRyzka
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,13 +20,13 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/areejimran
+    link: https://github.com/KarolinaRyzka
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/areej-imran-791b4a22a
+    link: https://www.linkedin.com/in/karolina-ryzka-522365268/
 
 user_groups:
-#  - Undergraduate Students
+  - Undergraduate Students
 
 ---
