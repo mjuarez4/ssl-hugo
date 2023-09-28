@@ -20,11 +20,11 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/LukeNiemeyer
+    link: https://github.com/jmartinez-29
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/luke-niemeyer2025/
+    link: http://www.linkedin.com/in/jmartinez29
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 ---
