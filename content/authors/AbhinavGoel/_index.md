@@ -28,5 +28,5 @@ social:
     link: https://www.linkedin.com/in/abhinavgoel95/
 
 user_groups:
-  - Ph.D Students
+  - Alumni
 ---

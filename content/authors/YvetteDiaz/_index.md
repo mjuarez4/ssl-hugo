@@ -27,5 +27,5 @@ social:
     link: www.linkedin.com/in/yvettediaz0408
 
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
