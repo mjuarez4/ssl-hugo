@@ -1,21 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Why Accuracy Is Not Enough: The Need for Consistency in Object Detection'
+title: 'UnoAPI: Balancing Performance, Portability, and Productivity (P3) in HPC Education'
 subtitle: ''
 summary: ''
 authors:
-- Caleb Tung
-- Abhinav Goel
-- Fischer Bordwell
-- Nick John Eliopoulos
-- Xiao Hu
-- George K Thiruvathukal
-- Yung-Hsiang Lu
+- Konstantin Laufer
+- George K. Thiruvathukal
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-02-09T12:57:38-06:00
+date: '2022-11-14'
+lastmod: 2023-02-09T12:57:30-06:00
 featured: false
 draft: false
 
@@ -33,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-09T18:57:38.723365Z'
+publishDate: '2023-02-09T18:57:29.827361Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*IEEE MultiMedia*'
-doi: 10.1109/MMUL.2022.3175239
+publication: '*Proceedings of EduHPC 2022: Workshop on Education for High-Performance Computing 2022 (SC22)*'
+doi: 10.1109/EduHPC56719.2022.00006
+links:
+- name: URL
+  url: https://ecommons.luc.edu/cs_facpubs/314/
 ---
