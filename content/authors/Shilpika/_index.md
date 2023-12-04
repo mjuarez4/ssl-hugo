@@ -32,5 +32,5 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 user_groups:
-  - Ph.D Students
+  - Alumni
 ---

@@ -1,38 +1,32 @@
 ---
 # Display name
-title: Igor Ponomarenko
+title: Manny Sandoval
 
 # Username (this should match the folder name)
 authors:
-  - IgorPonomarenko
+  - MannySandoval
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Software Developer
+role: Ph.D Student at Loyola University Chicago
 
 # Organizations/Affiliations
 organizations:
-  - name: Loyola University Chicago
+  - name: Loyola University University
     url: 'https://luc.edu/'
-
 
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/IgorPono
+    link: https://github.com/mosandov
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/igor-ponomarenko-43838922b/overlay/photo/
-
-#   - icon: envelope
-#     icon_pack: fas
-#     link: https://nsynovic.dev
-
+    link: https://www.linkedin.com/comm/in/manuel-sandoval-madrigal-210426155
 
 user_groups:
-  - Alumni
+  - Ph.D Students
 
 ---
