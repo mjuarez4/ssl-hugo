@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Ph.D Student at Loyola University Chicago
 
 # Organizations/Affiliations
 organizations:
@@ -31,5 +31,6 @@ social:
     link: https://nsynovic.dev
 
 user_groups:
-  - Graduate Students
+  - Ph.D Students
+
 ---
